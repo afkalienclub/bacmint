@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE99bD8D0e28B321439f6DD83c1352D52Efb561bE",
+  "SCAN_LINK": "https://etherscan.io/address/0xE99bD8D0e28B321439f6DD83c1352D52Efb561bE",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bored Alien Collection",
+  "SYMBOL": "BAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Bored-Alien",
+  "SHOW_BACKGROUND": true
+}
